@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>contosoconf</title>
+		<meta name="description" content="">
+		<meta name="author" content="mano">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link href="css/contosoconf.css" rel="stylesheet" type="text/css">
+
+	</head>
+
+	<body>
+
+		<ul class="nav">
+			<li class="active">
+				<a href="#home">HOME</a>
+			</li>
+			<li>
+				<a href="#About">ABOUT</a>
+			</li>
+			<li>
+				<a href="#Schdule">SCHDULE</a>
+			</li>
+			<li>
+				<a href="#Register">REGISTER</a>
+			</li>
+			<li>
+				<a href="#Location">LOCATION</a>
+			</li>
+			<li>
+				<a href="#Live">LIVE</a>
+			</li>
+			<li>
+				<a href="#Feedback">FEEDBACK</a>
+			</li>
+
+		</ul>
+
+		<div class="register-here">
+			<div class="register-content">
+				<span style="padding-top: 30px; position: absolute; margin-left: -40px;">Register Here</span>
+			</div>
+		</div>
+
+
+		<div class="top common-padding"> 
+			<h1 >Contosoconf</h1>
+
+			<h3><em>A two-track conference on the latest HTML5 developments</em></h3>
+
+		</div>
+		<div>
+
+		</div>
+		<div id="line">
+
+		</div>
+		
+		<div class="common-padding" id="para">
+			<em>The web keeps evolving. There's a wealth of new technologies to keep up with!
+			ContosoConf is an in-depth exploration of</em>
+			<br>
+			<b>HTML5</b>, <b>CSS3</b> and <b>JavaScript</b>, in the heart of Seattle, WA.
+
+			<br>
+			<br>
+
+			<em>Don't miss the best speakers in the business, talking about the future of the web.</em>
+
+		</div>
+
+		<div class="speakers common-padding ">
+			
+			<h3> Featuring these excellent speakers </h3>		
+
+			<div class="images">
+				<div class="image">
+					<img src="img/speakers/melissa-kerr.jpg" alt="speaker">
+					<div class="desc">
+						Melissa-kerr
+					</div>
+				</div>
+				
+				<div class="image">
+					<img src="img/speakers/mark-hanson.jpg" alt="speaker">
+					<div class="desc">
+						Mark-hanson
+					</div>
+				</div>
+				
+				<div class="image">
+					<img src="img/speakers/david-alexander.jpg" alt="speaker">
+					<div class="desc">
+						David-alexander
+					</div>
+				</div>
+				
+				<div class="image">
+					<img src="img/speakers/april-meyer.jpg" alt="speaker">
+					<div class="desc">
+						April-meyer
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+<h4>
+<em>Thanks to our sponsors</em>
+</h4>
+
+<div class"sponsors">
+					
+					<div class="desc">
+						<img src="img/sponsors/Trey Research" alt="sponsors">
+						Trey Research
+					</div>
+
+	</body>
+</html>

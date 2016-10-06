@@ -1,0 +1,194 @@
+body {
+	background-color: rgba(187, 186, 186, 0.76);
+	height: 100%;
+	width: 100%;
+}
+
+.top {
+	
+}
+
+h1 {
+	font-size: 300%;
+	
+}
+
+
+ul.nav {	
+	width: 100%;
+	background-color: black;
+	list-style-type: none;	
+	padding-left: 5%;	
+}
+
+li {
+	display: inline-block;	
+	width: 12%;
+    min-width:  90px;
+    background-color: #111;
+}
+
+li a {
+display: block;
+    color: white;
+    text-align: center;
+    /* padding: 10px 10px; */
+    /* margin: 90px; */
+    text-decoration: none;
+    width: 100%;
+    padding: 30px 0;
+    text-transform: uppercase;
+}
+
+li.active {
+	background: red;
+	color: white;
+}
+
+li:hover {
+	background: red;
+	color: white;
+}
+
+.register-here {
+	position: absolute;
+    top: 150px;
+    right: 100px;
+    width: 100px;
+    height: 100px;
+    border: 1px solid #963434;
+    border-radius: 50%;
+    text-align: center;
+    border-style: dashed;
+}
+
+.register-content {	
+	    border: 1px dotted gray;
+    border-radius: 50%;
+    background: #963434;
+    color: white;
+    text-align: center;
+    height: 90%;
+    margin: 5%;
+	
+	/*padding-top:0px;*/
+}
+
+#line
+{
+	background:black;
+	width:100%;
+	height:3px;
+}
+
+.common-padding {
+	padding-left: 30px;
+}
+
+#para
+{
+	font-size: 15px;
+	text-align: left;
+	padding: 30px 40px 30px 40px
+	font-family: "nato" sans-serif;
+}
+
+
+div.image > img {
+    margin: 5px;
+    border: 1px solid black;
+    width: 130px;
+}
+
+div.image > img:hover {
+    border: 1px solid red;
+    cursor: pointer;
+}
+
+
+div.desc {    
+    text-align: center;
+}
+
+.image {
+	 display: inline-block;
+}
+
+.speakers {
+	padding-left: 20px;
+}
+
+h3 {
+	font-size: 25px;
+}
+
+.sponsors{
+	 display: inline-block;
+	 padding-left: 20px;
+	 font-size: 25px;
+}
+
+.description1 {
+	width: 30%;
+	display: inline-block;
+	text-align: justify;
+	padding: 10px 10px;
+	
+}
+
+.scheduleform > div {
+	width:80%;
+	margin:10px 65px;
+	font:5px sans-serif black bold;
+	border: 1px solid gray;
+	padding: 20px 60px 20px 80px;
+	
+}
+.scheduleform>div> #scheduleform1{
+	
+	width:20%;
+	
+}
+
+
+.row {
+	display: block;
+	min-height: 75px;
+	background: white;	
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.column {
+	display: inline-block;
+	background: white;
+	float: left;	
+}
+
+.border {
+	border: 1px solid #DCDCDC;	
+}
+
+input[type=text] {
+    width: 40%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>Schedule</title>
+		<meta name="description" content="">
+		<meta name="author" content="mano">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		
+		<link href="css/contosoconf.css" rel="stylesheet" type="text/css">
+
+	</head>
+
+	<body>
+		<ul class="nav">
+			<li>
+				<a href="#home">HOME</a>
+			</li>
+			<li class="active">
+				<a href="#About">ABOUT</a>
+			</li>
+			<li>
+				<a href="#Schdule">SCHDULE</a>
+			</li>
+			<li>
+				<a href="#Register">REGISTER</a>
+			</li>
+			<li>
+				<a href="#Location">LOCATION</a>
+			</li>
+			<li>
+				<a href="#Live">LIVE</a>
+			</li>
+			<li>
+				<a href="#Feedback">FEEDBACK</a>
+			</li>
+
+		</ul>
+		<div class="top common-padding">
+			<h1 >Contosoconf</h1>
+
+			<h3><em>A two-track conference on the latest HTML5 developments</em></h3>
+
+		</div>
+		<div id="line">
+
+		</div>
+		<div class="header">
+			<header>
+				<h2>Schedule</h2>
+			</header>
+		</div>
+		<div class="scheduleform">
+			<div>
+				Registration
+			</div>
+			<div>
+				Moving the Web forward with the HTML5
+			</div>
+			<div class="row">
+				<div class="column" style="width:40%">
+					<div class="row">
+						Diving in at the deep end with Canvas
+					</div>
+					<div class="row">
+						Websockets and you
+					</div>
+				</div>
+				<div class="column" style="width:40%">
+					<div class="row">
+						New technologies in Enterprise
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

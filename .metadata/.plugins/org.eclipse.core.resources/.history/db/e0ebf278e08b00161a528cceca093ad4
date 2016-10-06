@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>about</title>
+		<meta name="description" content="">
+		<meta name="author" content="mano">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+		<link href="css/contosoconf.css" rel="stylesheet" type="text/css">
+	</head>
+
+	<body>
+		<ul class="nav">
+			<li>
+				<a href="home.html">HOME</a>
+			</li>
+			<li class="active">
+				<a href="#bout.html">ABOUT</a>
+			</li>
+			<li>
+				<a href="schedule.html">SCHEDULE</a>
+			</li>
+			<li>
+				<a href="Register.html">REGISTER</a>
+			</li>
+			<li>
+				<a href="Location.html">LOCATION</a>
+			</li>
+			<li>
+				<a href="Live.html">LIVE</a>
+			</li>
+			<li>
+				<a href="Feedback.html">FEEDBACK</a>
+			</li>
+
+		</ul>
+		<div class="top common-padding">
+			<h1 >Contosoconf</h1>
+
+			<h3><em>A two-track conference on the latest HTML5 developments</em></h3>
+
+		
+		<div id="line">
+
+		</div>
+		<div>
+			<h2>ContosoConf brings web designers and developers together</h2>
+
+		</div>
+		<div class="description1">
+				<p>
+					Since the very first Contoso Conf back in 2009, we've been guided by three principles:
+
+					<ul>
+						<li>
+							Community Matters
+						</li>
+						<li>
+							Never Stop Learning
+						</li>
+						<li>
+							Have fun!
+						</li>
+
+					</ul>
+					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae enim arcu, vitae aliquet purus. Aenean rhoncus diam et orci porttitor fringilla. In porta lacus a turpis pretium placerat. Cras viverra enim eu nibh pretium ornare. Praesent et adipiscing turpis. Duis mi risus, ornare at bibendum a, ullamcorper vel tellus. Nulla in egestas velit.
+				</p>
+			</div>
+			<div class="description1">
+				<p>
+					Aenean consequat mi sed tellus iaculis laoreet. Donec et odio vel felis commodo porttitor.
+
+					Aenean id ligula est. Pellentesque ut magna ligula. Donec nunc eros, tincidunt sit amet sollicitudin in, semper id mauris. Phasellus odio nulla, molestie ac gravida sed, dignissim in nisl. Nunc luctus lobortis massa at dapibus. Aenean turpis nibh, hendrerit nec congue et, elementum a justo. Aenean sit amet nulla odio. Cras feugiat porta risus nec pretium.
+				</p>
+				<h3>What's It All About?</h3>
+				<p>
+					Donec vel sem ut dui vulputate porta. Phasellus imperdiet sapien a arcu adipiscing vitae adipiscing elit pharetra. Donec sed ante ut eros
+				</p>
+			</div>
+			<div class="description1">
+				<p>
+					mattis bibendum non in erat. Donec sagittis, massa eu accumsan eleifend, eros justo cursus justo, id consequat mauris diam id magna. Vivamus quis tortor massa. Nam ipsum metus, dapibus ac facilisis sit amet, ullamcorper quis risus. Integer aliquet eleifend accumsan.
+
+					"I had a fantastic time and learnt so much!"
+
+					Pellentesque facilisis blandit augue id rhoncus. Sed facilisis varius lectus, eget commodo purus dapibus nec. In hac habitasse platea dictumst. Etiam imperdiet facilisis malesuada. Nunc semper venenatis elit ac lobortis. Duis lorem lorem, pharetra ut scelerisque nec, consequat sed risus. Morbi rutrum nisl ut ipsum consectetur porttitor. Phasellus sed nunc id diam tempus congue in a leo.
+
+					Proin feugiat, turpis id tempor tempor, lorem libero malesuada.
+				</p>
+			</div>
+
+		</div>
+	</body>
+</html>
