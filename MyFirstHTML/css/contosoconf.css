@@ -21,14 +21,14 @@ ul.nav {
 	padding-left: 5%;	
 }
 
-li {
+ul.nav > li {
 	display: inline-block;	
 	width: 12%;
     min-width:  90px;
     background-color: #111;
 }
 
-li a {
+ul.nav >li a {
 display: block;
     color: white;
     text-align: center;
@@ -40,12 +40,12 @@ display: block;
     text-transform: uppercase;
 }
 
-li.active {
+ul.nav >li.active {
 	background: red;
 	color: white;
 }
 
-li:hover {
+ul.nav >li:hover {
 	background: red;
 	color: white;
 }
@@ -128,18 +128,69 @@ h3 {
 	 font-size: 25px;
 }
 
+.description1 {
+	width: 30%;
+	display: inline-block;
+	text-align: justify;
+	padding: 8px 10px;
+	
+}
+
+.scheduleform > div {
+	width:80%;
+	margin:5px 65px;
+	font:5px sans-serif black bold;
+	border: 1px solid gray;
+	padding: 20px 60px 20px 80px;
+	
+}
+.scheduleform>div> #scheduleform1{
+	
+	width:20%;
+	
+}
+
+
+.row {
+	display: block;
+	min-height: 75px;
+	background: white;	
+	padding: 10px;
+	margin-top: 10px;
+}
+
+.column {
+	display: inline-block;
+	background: white;
+		
+}
+
+.border {
+	border: 1px solid #DCDCDC;	
+}
+
+input{
+    width: 20%;
+     
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+   
 
 
 
 
+.bottom{
+	border: 1px solid #DCDCDC;
+}
+	
 
-
-
-
-
-
-
-
+div .address > li  {
+	list-style: none;
+	font: 15px italic;
+	padding-left: 10px;
+}
 
 
 
